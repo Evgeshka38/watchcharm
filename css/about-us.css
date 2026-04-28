@@ -1,0 +1,12 @@
+.about-us-text {
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.about-us-link {
+  line-height: 1.28571;
+  text-align: center;
+  color: #fbfbfb;
+  background-color: #3350e9;
+  padding: 10px;
+}
