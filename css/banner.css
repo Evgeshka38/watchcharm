@@ -1,0 +1,18 @@
+.baner-text {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 0.91667;
+  color: #fbfbfb;
+  width: 690px;
+}
+.baner-text-accent {
+  color: rgba(251, 251, 251, 0.5);
+}
+.baner {
+  background-color: rgb(63, 58, 58);
+}
+
+.baner-link {
+  line-height: 1.28571;
+  color: #fbfbfb;
+}

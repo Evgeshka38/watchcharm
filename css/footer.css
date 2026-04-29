@@ -1,0 +1,15 @@
+.footer {
+  border-radius: 30px;
+  padding: 40px 40px 28px;
+  width: 1216px;
+  margin: 0px auto;
+  background-color: #0c0c0c;
+  color: #fbfbfb;
+}
+.footer .container {
+  padding: 0px 40px;
+}
+
+.footer .logo {
+  color: #fbfbfb;
+}

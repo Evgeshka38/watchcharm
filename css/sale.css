@@ -1,0 +1,59 @@
+.sale-info-wrapper {
+  width: 530px;
+  padding: 60px;
+  border-radius: 50px;
+  background-color: #3350e9;
+}
+.sale-info-wrapper-title {
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.125;
+  color: #fff;
+}
+.sale-info-wrapper-text {
+  margin-bottom: 20px;
+  font-weight: 400;
+  line-height: 1.28571;
+  color: rgba(251, 251, 251, 0.5);
+}
+.sale-info-wrapper-description {
+  font-size: 16px;
+  line-height: 1.25;
+  color: rgba(251, 251, 251, 0.7);
+}
+.sale-info-wrapper-price {
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.16667;
+  text-decoration: line-through;
+  color: rgba(251, 251, 251, 0.5);
+}
+.sale-info-wrapper-price-accent {
+  border-radius: 8px;
+  padding: 8px 12px;
+  background-color: rgba(251, 251, 251, 0.1);
+  margin-right: 9px;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1;
+  color: #fff;
+}
+.sale-info-wrapper-description {
+  margin-bottom: 40px;
+  font-size: 16px;
+  line-height: 1.25;
+  color: rgba(251, 251, 251, 0.7);
+}
+
+.tag-list-item {
+  border: 1px solid rgba(251, 251, 251, 0.2);
+  border-radius: 8px;
+  padding: 8px 12px;
+  width: 145px;
+  font-size: 14px;
+  line-height: 1.28571;
+  color: #fbfbfb;
+}
